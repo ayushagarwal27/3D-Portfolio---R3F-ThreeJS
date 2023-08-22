@@ -54,6 +54,7 @@ export default function Experience() {
             rotation-y={-1.25}
             maxWidth={2}
             textAlign="center"
+            color={"#e9dc4b"}
           >
             Ayush Agarwal
           </Text>
